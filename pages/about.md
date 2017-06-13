@@ -6,8 +6,8 @@ description: Kristina Riemer is a computational ecologist working on her PhD at 
 
 Kristina Riemer was born in Wisconsin and raised in Cedar Rapids, Iowa. 
 She received a B.A. in biology from [Lawrence University](https://en.wikipedia.org/wiki/Lawrence_University)
-in 2012, with a focus on aquatic ecology under the tutelage of her mentor Dr. 
-Bart De Stasio. 
+in 2012, with a focus on aquatic ecology under the guidance of mentor Dr. Bart 
+De Stasio. 
 
 Kristina is currently working on her PhD in computational ecology with advisor
 [Ethan White](http://whitelab.weecology.org/)
@@ -22,4 +22,4 @@ actively with the other members of the [Weecology lab](http://weecology.org/),
 which is jointly run by Drs. [Morgan Ernest](http://ernestlab.weecology.org/)
 and Ethan White. 
 
-CV will go here
+CV here
