@@ -2,7 +2,7 @@
 layout: frontpage
 title: Kristina Riemer
 description: Kristina Riemer is a computational ecologist working on her PhD at the University of Florida with Dr. Ethan White
-keywords: Riemer, species traits, environmental gradients, R, Python
+keywords: Riemer, ecology, species traits, environmental gradients, R, Python, data management
 ---
 
 <div class="navbar">
