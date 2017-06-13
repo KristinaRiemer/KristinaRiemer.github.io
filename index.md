@@ -13,3 +13,18 @@ keywords: Riemer, species traits, environmental gradients, R, Python
       </ul>
   </div>
 </div>
+
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="assets/photos/snow_selfie.jpg">
+        <img src="assets/photos/snow_selfie.jpg"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="assets/photos/teaching_swc.jpg">
+        <img src="assets/photos/teaching_swc.jpg"/>
+    </a>
+  </td>
+</tr>
+</table>
