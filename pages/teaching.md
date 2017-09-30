@@ -29,6 +29,7 @@ description: Kristina Riemer's teaching experiences
 - Software Carpentry, University of Florida, August 17-18, 2016
 - Software Carpentry, Columbia University, September 1-2, 2016
 - Software Carpentry (helper), University of Florida, February 6-7, 2017
+- Data Carpentry, Lawrence Berkeley National Laboratory, August 1-2, 2017
 
 ---
 
@@ -39,3 +40,4 @@ description: Kristina Riemer's teaching experiences
     - Participant in second hackathon at iDigBio December 9-19, 2015
 - Spatio-temporal data workshop, current materials [here](http://www.datacarpentry.org/lessons/#geospatial-data-workshop)
     - Participant in hackathon at NEON, October 21-23, 2015
+- Data Carpentry semester-long course, current materials [here](https://github.com/datacarpentry/semester-biology)
