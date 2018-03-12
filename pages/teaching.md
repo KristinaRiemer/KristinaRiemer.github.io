@@ -30,6 +30,8 @@ description: Kristina Riemer's teaching experiences
 - Software Carpentry, Columbia University, September 1-2, 2016
 - Software Carpentry (helper), University of Florida, February 6-7, 2017
 - Data Carpentry, Lawrence Berkeley National Laboratory, August 1-2, 2017
+- Software Carpentry, University of Florida, January 22-23, 2018
+- Data Carpentry, University of Florida, March 20-21, 2018
 
 ---
 
