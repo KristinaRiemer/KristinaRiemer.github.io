@@ -22,4 +22,4 @@ actively with the other members of the [Weecology lab](http://weecology.org/),
 which is jointly run by Drs. [Morgan Ernest](http://ernestlab.weecology.org/)
 and Ethan White. 
 
-CV here
+CV [here](http://KristinaRiemer.github.io/KristinaRiemer.github.io/cv.doc). 
