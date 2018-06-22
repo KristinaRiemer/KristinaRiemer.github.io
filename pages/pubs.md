@@ -4,11 +4,13 @@ title: Publications
 description: Kristina Riemer's publications
 ---
 
-Brave, N., Stucky, B., **Riemer, K.**, Mayor, S.J., Guralnick, R. (2018) Bergmann’s Rule Revisited: Climatic Factors Influencing Geographic Distributions of Endotherm Body Size in North America. In preparation. 
+Taylor, S.D., Meiners, J.M., **Riemer, K.**, Orr, M.C., White, E.P. (2018) Comparison of large-scale citizen science data and long-term study data for phenology modeling. In review. [preprint](https://www.biorxiv.org/content/early/2018/05/31/335802) 
+
+Brave, N., Stucky, B., **Riemer, K.**, Mayor, S.J., Guralnick, R. (2018) Bergmann’s Rule Revisited: Climatic Factors Influencing Geographic Distributions of Endotherm Body Size in North America. In submission. 
 
 De Stasio, B., Roberts R., **Riemer, K.** (2018) Phytoplankton, Chlorophyll and Microcystin Dynamics in Lower Green Bay, Lake Michigan Following Biological Invasions. In submission. 
 
-**Riemer, K.**, Anderson-Teixeira, K.J., Smith, F.A., Harris, D.J. & Ernest, S.K.M. (2017) Body Size Shifts Influence Effects Of Increasing Temperatures On Ectotherm Metabolism. In review. [preprint](http://biorxiv.org/content/early/2017/05/17/139279)
+**Riemer, K.**, Anderson-Teixeira, K.J., Smith, F.A., Harris, D.J. & Ernest, S.K.M. (2018) Body Size Shifts Influence Effects Of Increasing Temperatures On Ectotherm Metabolism. Global Ecology and Biogeography. [preprint](http://biorxiv.org/content/early/2017/05/17/139279)
 
 **Riemer, K.**, Guralnick, R., White, E. (2018) No general relationship between mass and temperature in endotherm species. eLife. [link](https://elifesciences.org/articles/27166)
 
