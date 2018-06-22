@@ -17,7 +17,7 @@ description: Kristina Riemer's teaching experiences
 
 ### <a name="semester"></a>Semester Courses
 
-- (current) Instructor, Data Carpentry (WIS 6934), University of Florida, Fall 2017
+- Instructor, Data Carpentry (WIS 6934), University of Florida, Fall 2017
 - Teaching assistant, Biology I (BIOL 1610), Utah State University, Fall 2014
 - Teaching assistant, Biology I (BIOL 1610), Utah State University, Fall 2013
 
