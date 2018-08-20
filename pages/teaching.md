@@ -32,6 +32,7 @@ description: Kristina Riemer's teaching experiences
 - Data Carpentry, Lawrence Berkeley National Laboratory, August 1-2, 2017 [website](https://kristinariemer.github.io/2017-08-01-berkeleylab/)
 - Software Carpentry, University of Florida, January 22-23, 2018 [website](https://uf-carpentry.github.io/2018-01-22-UFII/)
 - Data Carpentry, University of Florida, March 20-21, 2018 [website](https://uf-carpentry.github.io/2018-03-20-UFDataSymposium/)
+- Data Carpentry, University of Florida, August 15-16, 2018 [website](https://picardis.github.io/2018-08-15-ufii/)
 
 ---
 
