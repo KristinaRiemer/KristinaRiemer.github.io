@@ -4,6 +4,11 @@ title: Teaching
 description: Kristina Riemer's teaching experiences
 ---
 
+I am an experienced instructor in computational skills, including programming, version control, and data management. I focus specifically on teaching other researchers these skillsets, which enable them to have more reproducible, accurate, and automated research workflows. I have also contributed to openly available materials for teaching this content. 
+&nbsp;
+
+&nbsp;
+
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
