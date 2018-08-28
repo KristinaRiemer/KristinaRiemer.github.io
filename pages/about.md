@@ -4,6 +4,9 @@ title: About
 description: Kristina Riemer is a computational ecologist working on her PhD at the University of Florida with Dr. Ethan White
 ---
 
+[Resume](http://KristinaRiemer.github.io/KristinaRiemer.github.io/resume.docx)  
+[CV](http://KristinaRiemer.github.io/KristinaRiemer.github.io/cv.doc)
+
 Kristina Riemer was born in Wisconsin and raised in Cedar Rapids, Iowa. 
 She received a B.A. in biology from [Lawrence University](https://en.wikipedia.org/wiki/Lawrence_University)
 in 2012, with a focus on aquatic ecology under the guidance of mentor Dr. Bart 
@@ -21,5 +24,3 @@ developing her own research and computational skills, she also collaborates
 actively with the other members of the [Weecology lab](http://weecology.org/),
 which is jointly run by Drs. [Morgan Ernest](http://ernestlab.weecology.org/)
 and Ethan White. 
-
-CV [here](http://KristinaRiemer.github.io/KristinaRiemer.github.io/cv.doc). 
