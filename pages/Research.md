@@ -6,7 +6,13 @@ description: Kristina Riemer's research interests and projects
 
 ### Graduate Research
 
-To be added soon! 
+**Body size patterns**
+
+My interests in how individual- and species-level traits vary across environmental gradients has resulted in some interesting projects. I have looked for the occurrence of a negative temperature-mass relationship within species (i.e., Bergmann's rule) in a data-intensive way and have not found it to be as prevalent as expected. I have also determined how size variation affects how temperature changes metabolic rates in a diverse group of ectotherm species. Currently, I am working on projects to determine how temperature affects species sizes across time (see [GitHub repo](https://github.com/KristinaRiemer/temporal_MRT)). 
+
+**Phenology assessment**
+
+Another area of interest has been how choice of both data types and models affect interpretations of phenological patterns in various types of organisms. We are currently looking at how large amounts of opportunistically collected data compared to more intensively collected data affect assessment of phenology in bees. Additionally, how phenology patterns in plants differ depending on which models are used to characterize them in combination with choice of opportunistic or intensively collected data. 
 
 ### Undergraduate & Postgraduate Research
 
