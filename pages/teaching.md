@@ -30,6 +30,7 @@ I am an experienced instructor in computational skills, including programming, v
 
 ### <a name="workshop"></a>Workshops
 
+- Data Carpentry (geospatial), University of Florida, October 23-24, 2018 [website](https://uf-carpentry.github.io/2018-10-23-ufii-geospatial/)
 - Data Carpentry, University of Florida, August 15-16, 2018 [website](https://picardis.github.io/2018-08-15-ufii/)
 - Data Carpentry, University of Florida, March 20-21, 2018 [website](https://uf-carpentry.github.io/2018-03-20-UFDataSymposium/)
 - Software Carpentry, University of Florida, January 22-23, 2018 [website](https://uf-carpentry.github.io/2018-01-22-UFII/)
