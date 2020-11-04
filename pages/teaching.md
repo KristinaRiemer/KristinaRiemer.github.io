@@ -30,6 +30,7 @@ I am an experienced instructor in computational skills, including programming, v
 
 ### <a name="workshop"></a>Workshops
 
+- Software Carpentry, University of Arizona, February 23-24, 2019 [website](https://ua-carpentries-workshops.github.io/2019-02-23-Tucson/)
 - Data Carpentry (geospatial), University of Florida, October 23-24, 2018 [website](https://uf-carpentry.github.io/2018-10-23-ufii-geospatial/)
 - Data Carpentry, University of Florida, August 15-16, 2018 [website](https://picardis.github.io/2018-08-15-ufii/)
 - Data Carpentry, University of Florida, March 20-21, 2018 [website](https://uf-carpentry.github.io/2018-03-20-UFDataSymposium/)
@@ -41,8 +42,9 @@ I am an experienced instructor in computational skills, including programming, v
 
 ---
 
-### <a name="dev"></a>Curriculum Development
+### <a name="dev"></a>Training Materials Development
 
+- TERRA REF dataset videos and tutorials, current materials [here](https://terraref.github.io/tutorials/)
 - Data Carpentry semester-long course, current materials [here](https://github.com/datacarpentry/semester-biology)
 - Spatio-temporal data workshop, current materials [here](http://www.datacarpentry.org/lessons/#geospatial-data-workshop)
     - Participant in hackathon at NEON, October 21-23, 2015

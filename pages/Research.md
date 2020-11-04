@@ -1,8 +1,38 @@
 ---
 layout: page
-title: Research
+title: Projects
 description: Kristina Riemer's research interests and projects
 ---
+
+### Agricultural Projects
+
+**Sentinel plant modeling**
+
+We are predicting how plants that have been modified to detect certain biochemical compounds will perform when grown outdoors. We are using several crop models to do so, using the scientific software [PEcAn](https://pecanproject.github.io/) to run these models within a Bayesian framework. These models are documented extensively and reproducibly in [a series of vignettes](https://github.com/az-digitalag/model-vignettes) that I have created. We also generate useful visualizations to display these results for our collaborators, such as the one below. 
+
+<table class="wide">
+<tr>
+  <td align="center">
+    <a href="stlew_biomass.gif">
+        <img src="stlew_biomass.gif"/>
+    </a>
+  </td>
+</tr>
+</table>
+
+**TERRA REF dataset accessibility**
+
+TERRA REF is a large collection of high throughput phenotyping and remote imaging data on plants. I have improved the ability of researchers to understand and use these complicated, diverse data by documenting their use in [tutorials](https://terraref.github.io/tutorials/) and running [a series of walkthrough webinars](https://mailchi.mp/8abba1e3b0d8/learn-to-access-and-analyze-terra-ref-data). Additionally, we have been producing derived datasets that are compatible with the ICASA standard through a collaborative project with the University of Florida, as described in [this blog post](https://datascience.cals.arizona.edu/news/2020/06/hackathon-building-agricultural-research-data-network). 
+
+<table class="wide">
+<tr>
+  <td align="center">
+    <a href="terraref_tutorials.png">
+        <img src="terraref_tutorials.png"/>
+    </a>
+  </td>
+</tr>
+</table>
 
 ### Graduate Research
 
